@@ -7,4 +7,4 @@ Server clinet TCP communication using python
 * Asynchronous - using threads
 
 
-3 clients and 1 server is used to recieve the message from the client and print the message in the server.
+3 clients and 1 server is used to recieve the messages from the clients and print the message in the server.
